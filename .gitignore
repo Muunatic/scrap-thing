@@ -1,0 +1,6 @@
+#visual studio
+.vs
+
+#python cache
+
+__pycache__
